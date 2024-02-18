@@ -53,6 +53,7 @@ main{
     background-color: var(--Dark-desaturated-blue);
     border-radius: 10px;
     width: 70%;
+    max-width: 1000px;
     margin: 0 auto;
     margin: 9rem auto;
     display: flex;
